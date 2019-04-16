@@ -1,10 +1,10 @@
 # celScan
 TCP Port Scanner
 
-###Requirements:**
+##Requirements:**
 ..* Python > 3.6.x
 
-###Usage:**
+##Usage:**
 
 clone the repository
 ```bash
