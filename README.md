@@ -1,5 +1,5 @@
 # celScan
-TCP Port Scanner
+TCP Port connection tester
 
 ## Requirements:
 * Python > 3.6.x
